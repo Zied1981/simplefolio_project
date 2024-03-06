@@ -1,0 +1,26 @@
+.conta {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 1vw;
+}
+.conta h3 {
+  text-align: center;
+  color: var(--color2);
+  margin-bottom: 1vw;
+}
+.conta a {
+  border: 1px solid var(--color2);
+  padding: 0.5vw 2vw;
+  background-color: var(--color1);
+  color: var(--color4);
+  text-decoration: none;
+  margin-bottom: 4vw;
+}
+
+.conta p {
+  text-align: center;
+  color: var(--color2);
+  margin-bottom: 2vw;
+}
